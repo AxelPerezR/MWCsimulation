@@ -1,0 +1,4 @@
+/home/axel/centelladores/build/CMakeFiles/sim.dir
+/home/axel/centelladores/build/CMakeFiles/Simulation.dir
+/home/axel/centelladores/build/CMakeFiles/edit_cache.dir
+/home/axel/centelladores/build/CMakeFiles/rebuild_cache.dir

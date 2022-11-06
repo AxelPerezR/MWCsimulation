@@ -1,0 +1,4 @@
+/home/axel/sim/build/CMakeFiles/rebuild_cache.dir
+/home/axel/sim/build/CMakeFiles/Simulation.dir
+/home/axel/sim/build/CMakeFiles/edit_cache.dir
+/home/axel/sim/build/CMakeFiles/sim.dir
